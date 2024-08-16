@@ -1,0 +1,15 @@
+.div1 {
+    margin-bottom: 12px;
+}   
+.div1 p {
+    margin: 32px 0;
+}
+.div2 {
+    margin-bottom: 48px;
+}
+.div3 {
+   margin-bottom: auto;
+}
+.div3 p {
+    margin 32px 0;
+}

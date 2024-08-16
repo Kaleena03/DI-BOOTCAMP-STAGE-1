@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.information, .history, .media, .lions, .difference {
+    padding: 20px;
+    margin: 20px auto;
+    background: #fff;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.info-link {
+    color: #007bff;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.info-link:hover {
+    text-decoration: underline;
+}
+
+.media-image {
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+}
+
+.column {
+    flex-basis: 48%;
+    padding: 10px;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}

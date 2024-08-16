@@ -1,0 +1,16 @@
+.button1 {
+background-color: black;
+color: white;
+transition: background-color 0.3s ease;
+}
+.button2 {
+    background-color: white;
+    transition: background-color 0.3s ease
+}
+.button1, .button2 {
+    font-size: 28px;
+    font-family: 'Helvetica','Times New Roman', sans-serif;
+}
+.button1:hover, .button2:hover {
+    background-color: darkgray;
+}

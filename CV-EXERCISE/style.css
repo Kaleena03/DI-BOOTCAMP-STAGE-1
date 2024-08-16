@@ -1,0 +1,25 @@
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .main-heading, .sub-heading {
+    color: brown;
+  }
+  
+  .my-paragraph {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .my-paragraph:hover {
+    background-color: darkgray;
+  }
+  
+  .footer-text {
+    margin-top: 20px;
+    text-align: center;
+    color:gray;
+  }

@@ -1,0 +1,35 @@
+.card {
+    padding: 8px;
+    border: 2px solid #b0c3cf;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .content {
+    padding: 16px 8px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    margin-bottom: 8px;
+  }
+  
+  .button-container {
+    text-align: center;
+    padding: 8px;
+  }
+  
+  .big-button {
+    display: block;
+    margin: 8px auto;
+    padding: 10px 24px;
+    font-size: 20px;
+    background-color: #d29790;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; /* Smooth transition effect */
+  }
+  
+  .big-button:hover {
+    background-color: #181e1e; /* Darker color on hover */
+  }
